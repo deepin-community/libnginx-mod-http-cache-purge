@@ -2,10 +2,10 @@ Source: libnginx-mod-http-cache-purge
 Section: httpd
 Priority: optional
 Maintainer: Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>
-Uploaders: Jan Mojžíš <jan.mojzis@gmail.com>,
+Uploaders: Jan Mojžíš <janmojzis@debian.org>,
 Build-Depends: debhelper-compat (= 13),
                dh-sequence-nginx,
-Standards-Version: 4.7.0
+Standards-Version: 4.7.2
 Homepage: https://github.com/FRiCKLE/ngx_cache_purge
 Vcs-Git: https://salsa.debian.org/nginx-team/libnginx-mod-http-cache-purge.git
 Vcs-Browser: https://salsa.debian.org/nginx-team/libnginx-mod-http-cache-purge
